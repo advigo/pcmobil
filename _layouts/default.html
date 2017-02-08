@@ -7,9 +7,12 @@
   </head>
   <header>
     <h1>PC och Mobilnyheter</h1>
-    {% include nav.html %}
+    {% include nav.html navclass='nav-top'%}
   </header>
   <body>
     {{content}}
+    <footer>
+      {% include nav.html navclass='nav-bottom'%}
+    </footer>
   </body>
 </html>
