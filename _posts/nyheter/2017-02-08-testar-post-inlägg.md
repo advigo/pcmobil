@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: news-article
 title: Testar post inlägg
 meta: Undrar vad man har meta till
 category: nyheter

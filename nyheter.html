@@ -6,7 +6,7 @@ layout: news
 <ul>
   {% for nyheter in site.categories.nyheter limit:4 %}
   <li>
-    <a href="">{{nyheter.title}}</a>
+    <a href="{{site.baseurl}}{{nyheter.url}}">{{nyheter.title}}</a>
     <p>{{nyheter.meta}}</p>
   </li>
   {% endfor %}

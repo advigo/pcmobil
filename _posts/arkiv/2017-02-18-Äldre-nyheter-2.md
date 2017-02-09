@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: news-article
 title: Äldre nyheter som har arkiverats 2
 meta: arkiverade nyheter 2
 category: arkiv
