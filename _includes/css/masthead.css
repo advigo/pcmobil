@@ -1,0 +1,7 @@
+.masthead {
+  padding: 1em;
+  background-color: #00531;
+  background: url("../images/header/header1.jpg") no-repeat center center;
+  background-size: cover;
+  color: #fff;
+}
