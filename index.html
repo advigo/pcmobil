@@ -3,3 +3,12 @@ layout: default
 ---
 
 <H1>Välkommen till PC mobil</H1>
+
+<ol>
+  {% for project in site.data.project %}
+  <li>
+    <a href="#">{{project.title}}</a>
+    {{project.content | markdownify}}
+  </li>
+  {% endfor %}
+</ol>

@@ -1,0 +1,11 @@
+- title: project Jekyll
+  folder: projekt
+  content: 'Started learning and pusing ***Jekyll and Github***'
+
+- title: project Aws S3
+  folder: projekt
+  content: 'Sterted using ***Amazon aws S3*** as a hosting'
+
+- title: project serverless
+  folder: projekt
+  content: 'Started learning ***serverless functions*** with aws'
