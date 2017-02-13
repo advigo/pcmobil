@@ -5,5 +5,6 @@ title: Jekyll
 image: jekyll.png
 ---
 
-*** Jekyll ***
+***Jekyll***
+
 Is easy to learn and fun to use in projects.

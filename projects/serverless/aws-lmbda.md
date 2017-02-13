@@ -5,5 +5,6 @@ title: AWS and Lambda
 image: aws-lambda.png
 ---
 
-*** Serverless ***
+***Serverless***
+
 I am learning aws Lambda for future serverless projects
