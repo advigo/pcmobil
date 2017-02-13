@@ -2,4 +2,13 @@
 layout: default
 ---
 
+<h2>{{page.title}}</h2>
+
+<img src="{{site.baseurl}}/images/project/{{page.image}}" alt="image of {{project.title}}">
+
+ <dl class="knowledge">
+  <dt>Knowledge</dt><dd>{{page.knowledge}}</dd>
+  <dt>Knowledge in percent</dt><dd>{{page.percent}}%</dd>
+ </dl>
+
 {{content}}

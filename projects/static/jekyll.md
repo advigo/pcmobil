@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: project
 category: static
 title: Jekyll
 image: jekyll.png
+knowledge: Jekyll Github
+percent: 30
 ---
 
 ***Jekyll***
