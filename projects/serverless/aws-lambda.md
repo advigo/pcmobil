@@ -10,7 +10,4 @@ published: true
 
 ***Serverless***
 
-I am learning aws Lambda for future serverless projects
-
-![aws-lambda-3.png]({{site.baseurl}}/projects/serverless/aws-lambda-3.png)
-
+I am learning aws Lambda for future serverless projects.
